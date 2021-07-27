@@ -105,3 +105,15 @@ p {
     line-height: 1.2;
     font-family: 'Noto sans', cursive;
 }
+
+a{
+text-decoration: none;
+}
+
+.article:hover{
+color: fuchsia;
+}
+
+html{
+scroll-behavior: smooth;
+}
